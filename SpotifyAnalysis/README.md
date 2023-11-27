@@ -31,7 +31,7 @@ This project allows you to create personalized Spotify statistics using your Spo
 
 ## Project Structure
 
-- `Spotify_Stats_Hack.ipynb`: Jupyter Notebook containing the code for Spotify statistics analysis.
+- `spotify_analysis.ipynb`: Jupyter Notebook containing the code for Spotify statistics analysis.
 - `my_spotify_data/`: Directory to store your Spotify streaming data.
 
 ## Requirements
