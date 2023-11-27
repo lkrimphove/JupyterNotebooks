@@ -1,0 +1,2 @@
+jupyterlab==4.0.2
+pandas~=2.0.3
