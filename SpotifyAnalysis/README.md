@@ -16,6 +16,7 @@ This project allows you to create personalized Spotify statistics using your Spo
 
 1. **Gather Your Spotify Data:**
    - Request your Spotify streaming data from Spotify.
+   - You can do this [here](https://www.spotify.com/account/privacy/) (make sure you request the “Extended streaming history”).
    - Place the JSON files in the 'my_spotify_data/' directory.
 
 2. **Run the Jupyter Notebook:**
